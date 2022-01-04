@@ -1,6 +1,6 @@
 # Logistic-Regression-Naive-Bayesian-Classification
 
-Logistic regression and Naive Bayesian Classification on the factors that influence CD4 cell levels in AIDS patients.
+Logistic regression and Naive Bayesian Classification on the factors that influence CD4 cell levels in AIDS patients.https://github.com/melissaEYE/Logistic-Regression-Naive-Bayesian-Classification/blob/main/actg320.csv 
 
 The dataset used for this project was the Acquired Immune Deficiency Syndrome (AIDS) clinical trials study group 320 data from the University of Massachusetts at Amherst.
 
@@ -8,6 +8,6 @@ The objective of the analysis was to explore the factors that influence CD4 cell
 
 This project involves using R to examine a dataset. The R script is included in the file "MHunfalvay_Assignment2.R". Instructions on how to use the program are included as comments in the R file. After opening the file, please read the instructions carefully before executing the code to ensure that the program functions correctly.
 
-The full report can be found in the file "REgression_Bayesian.pdf". This report shows a complete breakdown of my analysis, including problem identification, motivation, data exploration, data preparation, results, and interpretations. Tables and visualizations are also included.
+The full report can be found in the file "Regression_Bayesian.pdf". This report shows a complete breakdown of my analysis, including problem identification, motivation, data exploration, data preparation, results, and interpretations. Tables and visualizations are also included.
 
 
