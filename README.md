@@ -1,4 +1,4 @@
-# Logistic-Regression-Naive-Bayesian-Classification
+# Logistic Regression & Naive Bayesian Classification
 
 Logistic regression and Naive Bayesian Classification on the factors that influence CD4 cell levels in AIDS patients.https://github.com/melissaEYE/Logistic-Regression-Naive-Bayesian-Classification/blob/main/actg320.csv 
 
